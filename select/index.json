@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "もののけ姫（ヴォーカル）",
+  "base_artist": "Joe Hisaishi",
+  "createdAt": "2026-03-14T04:48:11.669954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もののけ姫 ヴォーカル",
+      "artist": "Joe Hisaishi",
+      "has_synced": false,
+      "path": "select/01_もののけ姫_ヴォーカル_Joe_Hisaishi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もののけ姫 ヴォーカル",
+      "artist": "久石譲",
+      "has_synced": true,
+      "path": "select/02_もののけ姫_ヴォーカル_久石譲.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Princess Mononoke Ending Theme Song With Vocals (Mononoke Hime Vocal Ending) (もののけ姫（ヴォーカル・エンディング）)",
+      "artist": "Joe Hisaishi",
+      "has_synced": false,
+      "path": "select/03_Princess_Mononoke_Ending_Theme_Song_With_Vocals_(Mononoke_Hime_Vocal_Ending)_(もの_Joe_Hisaishi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "もののけ姫 ヴォーカル エンディング",
+      "artist": "米良美一",
+      "has_synced": true,
+      "path": "select/04_もののけ姫_ヴォーカル_エンディング_米良美一.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もののけ姫 ヴォーカル",
+      "artist": "久石譲",
+      "has_synced": false,
+      "path": "select/pl_01_もののけ姫_ヴォーカル_久石譲.txt"
+    }
+  ]
+}
